@@ -1,0 +1,13 @@
+# Fichiers générés par Maven (compilation, rapports, Javadoc)
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Système
+.DS_Store
